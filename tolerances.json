@@ -1,0 +1,17 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tolerances",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"timingWindow" : [ 32 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
