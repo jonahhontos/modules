@@ -5,7 +5,8 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"timingWindow" : [ 32 ]
+					"noteErrorLimit" : [ 5 ],
+					"timingErrorLimit" : [ 30 ]
 				}
 
 			}
